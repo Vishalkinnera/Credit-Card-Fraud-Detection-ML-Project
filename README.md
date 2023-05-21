@@ -16,7 +16,7 @@ Classification Model
 10) Making "Prediction" from the model
 11) Evaluating the performance of the model through "Classification Report".
 
-## Libraries used:- 
+## Libraries used:
 1) Numpy
 2) Pandas
 3) Matplotlib
